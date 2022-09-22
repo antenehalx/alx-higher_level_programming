@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> fb242117acdf60bb810838732870d4732f5cf279
 #!/usr/bin/python3
 for i in range(0, 8):
     for j in range(i + 1, 10):
